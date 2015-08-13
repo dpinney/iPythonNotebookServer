@@ -1,0 +1,6 @@
+XXX Version 1.0.
+XXX Write down the build process? Create the server with Platypus. Then create the notebook app. Put the server app inside the resources folder of the notebook app. Done.
+OOO Use a custom port instead of the ipython default 8888?
+OOO Instructions for building and testing.
+OOO Build this as a real Mac application.
+OOO Real icons.
