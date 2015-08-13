@@ -6,7 +6,7 @@ The app opens .ipynb files by default when you double click them in the Finder. 
 
 ### How to Install
 
-Make sure you have iPython. Running ```brew install ipython``` in Terminal.app will install it if you have the excellent [brew package manager](http://brew.sh).
+Make sure you have iPython. If you don't, install the excellent [brew package manager](http://brew.sh) and then run ```brew install ipython``` in Terminal.app.
 
 Download the [iPythonNotebook.app](https://github.com/dpinney/iPythonNotebookServer/releases/download/v1.0.0/iPythonNotebook.app.zip), put it wherever you want.
 
