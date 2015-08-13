@@ -6,7 +6,7 @@ The app opens .ipynb files by default when you double click them in the Finder. 
 
 ### How to Install
 
-Download the [App](https://github.com/dpinney/iPythonNotebookServer/releases/download/v1.0.0/iPythonNotebook.app.zip), put it wherever you want.
+Download the [iPythonNotebook.app](https://github.com/dpinney/iPythonNotebookServer/releases/download/v1.0.0/iPythonNotebook.app.zip), put it wherever you want.
 
 ### Obligatory Screenshot
 
