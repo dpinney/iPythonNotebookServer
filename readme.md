@@ -6,7 +6,7 @@ The app opens .ipynb files by default when you double click them in the Finder. 
 
 ### How to Install
 
-Make sure you have iPython. If you don't, run ```pip install ipython``` in Terminal.app.
+Make sure you have iPython. If you don't, run ```pip install "ipython[notebook]"``` in Terminal.app.
 
 Download the [iPythonNotebook.app](https://github.com/dpinney/iPythonNotebookServer/releases/download/v1.0.0/iPythonNotebook.app.zip), put it wherever you want.
 
