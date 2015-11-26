@@ -12,3 +12,11 @@ The app opens .ipynb files by default when you double click them in the Finder. 
 ### Obligatory Screenshot
 
 ![Obligatory Screenshot](https://raw.githubusercontent.com/dpinney/iPythonNotebookServer/master/v1.0.0%20screenshot.png)
+
+### Credits
+
+We used Sveinbjorn Thordarson's [Platypus.app](http://www.sveinbjorn.org/platypus) to make this quick and dirty .app.
+
+Also thanks to WasteOfAMan for his Creative Commons licensed iPyNotebook App we use from his [Faneza Extra Icons](http://wasteofaman.deviantart.com/art/Faneza-extra-icons-539097199) collection.
+
+And of course none of this would work without [iPython](http://ipython.org).

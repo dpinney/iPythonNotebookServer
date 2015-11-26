@@ -1,6 +1,12 @@
 XXX Version 1.0.
 XXX Write down the build process? Create the server with Platypus. Then create the notebook app. Put the server app inside the resources folder of the notebook app. Done.
-OOO Use a custom port instead of the ipython default 8888?
-OOO Instructions for building and testing.
+XXX Use a custom port instead of the ipython default 8888? No. No use case for changing it.
+OOO Real icon.
+	XXX Good one? How about this CC-licensed one? http://wasteofaman.deviantart.com/art/Faneza-extra-icons-539097199
+	XXX How to make an icns? Made a script for it.
+	XXX Credits? Added to readme.md. 
+	OOO What about doc icon?
+OOO Instructions for building and testing. Make a script, build.sh.
+OOO QuickLook plugin.
+OOO Contact other projects in this space: https://github.com/liyanage/ipython-notebook, http://kronosnotebook.com, https://github.com/ihrke/IPythonQL, http://ipython.org
 OOO Build this as a real Mac application.
-OOO Real icons.
