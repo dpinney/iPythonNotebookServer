@@ -20,8 +20,8 @@ The app opens .ipynb files by default when you double click them in the Finder. 
 
 ### Credits
 
-We Sveinbjorn Thordarson's [Platypus.app](http://www.sveinbjorn.org/platypus) made quick work of generating the .app.
+Sveinbjorn Thordarson's [Platypus.app](http://www.sveinbjorn.org/platypus) made quick work of generating the .app.
 
-WasteOfAMan for his iPyNotebook App we use from his [Faneza Extra Icons](http://wasteofaman.deviantart.com/art/Faneza-extra-icons-539097199) collection.
+WasteOfAMan built a beautiful iPyNotebook App in his [Faneza Extra Icons](http://wasteofaman.deviantart.com/art/Faneza-extra-icons-539097199) collection.
 
 And of course none of this would work without [iPython](http://ipython.org).
