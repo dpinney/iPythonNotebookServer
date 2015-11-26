@@ -5,8 +5,9 @@ OOO Real icon.
 	XXX Good one? How about this CC-licensed one? http://wasteofaman.deviantart.com/art/Faneza-extra-icons-539097199
 	XXX How to make an icns? Made a script for it.
 	XXX Credits? Added to readme.md. 
-	OOO What about doc icon?
-OOO Instructions for building and testing. Make a script, build.sh.
+	XXX Manual icon application.
+	OOO What about document icon?
+XXX Make a script, build.sh. Add instructions to readme.
 OOO QuickLook plugin.
 OOO Contact other projects in this space: https://github.com/liyanage/ipython-notebook, http://kronosnotebook.com, https://github.com/ihrke/IPythonQL, http://ipython.org
-OOO Build this as a real Mac application.
+OOO Build this as a real Mac application instead of a Platypus one.
